@@ -4,6 +4,7 @@
 [![VSCode-nls](https://img.shields.io/badge/Framework-vscode--nls-0066b8)](https://github.com/microsoft/vscode-nls)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178c6)](https://www.typescriptlang.org/)
 [![Webpack 5](https://img.shields.io/badge/Develop-webpack-eaf8ff)](https://webpack.js.org/concepts/)
+[![Gulp](https://img.shields.io/badge/Develop-gulp-cf4647)](https://gulpjs.com/)
 
 This is an example of how the VSCode extension implements internationalization (`i18n`). It's base on the webpack packaging extension and use `vscode-nls` + `gulp`.
 If your extension insists on using `vscode-nls` you can refer to this sample, but if it's not necessary, I recommand you to use `vscode-nls-i18n` will be convenient. 
