@@ -1,0 +1,5 @@
+{
+	"displayName": "VSCode Extension NLS Sample",
+	"description": "VSCode extension nls sample base on vscode-nls",
+	"msg.hello": "Hello World!"
+}
