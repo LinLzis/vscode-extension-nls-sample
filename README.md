@@ -1,7 +1,7 @@
 # VSCode Extension NLS Sample
 
 [![VSCode Extension](https://img.shields.io/badge/Framework-VSCode-0066b8)](https://code.visualstudio.com/api)
-[![VSCode-nls](https://img.shields.io/badge/Framework-vscode-nls-0066b8)](https://reactjs.org/)
+[![VSCode-nls](https://img.shields.io/badge/Framework-vscode--nls-0066b8)](https://github.com/microsoft/vscode-nls)
 [![TypeScript](https://img.shields.io/badge/Language-TypeScript-3178c6)](https://www.typescriptlang.org/)
 [![Webpack 5](https://img.shields.io/badge/Develop-webpack-eaf8ff)](https://webpack.js.org/concepts/)
 
